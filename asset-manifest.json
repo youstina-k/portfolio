@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.37b899bf.css",
+    "main.css": "/portfolio/static/css/main.95daaf8f.css",
     "main.js": "/portfolio/static/js/main.07ef72fe.js",
     "static/js/453.acca0757.chunk.js": "/portfolio/static/js/453.acca0757.chunk.js",
     "static/media/Youstina.pdf": "/portfolio/static/media/Youstina.b635068b71fca470b87a.pdf",
     "static/media/sprints-certifi.jpg": "/portfolio/static/media/sprints-certifi.294312866243de8b4a83.jpg",
     "static/media/2.png": "/portfolio/static/media/2.7544e320effa13a9ab36.png",
     "index.html": "/portfolio/index.html",
-    "main.37b899bf.css.map": "/portfolio/static/css/main.37b899bf.css.map",
+    "main.95daaf8f.css.map": "/portfolio/static/css/main.95daaf8f.css.map",
     "main.07ef72fe.js.map": "/portfolio/static/js/main.07ef72fe.js.map",
     "453.acca0757.chunk.js.map": "/portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.37b899bf.css",
+    "static/css/main.95daaf8f.css",
     "static/js/main.07ef72fe.js"
   ]
 }
